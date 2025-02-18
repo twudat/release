@@ -1,7 +1,58 @@
----
-title: Twudat Releases
----
+<!DOCTYPE html>
+<!-- a href="Snoddenrop-01-001.zip">Snoddenrop-01-001.zip.zip</a   //-->
+<html>
+<head>
+  <title>FREE-XXX-O-DUS Kodi Adult Addon</title>
+  <style>
+    body {
+      background-color: #1a1a1a;
+      color: #fff;
+      font-family: Arial, sans-serif;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 36px;
+      text-align: center;
+    }
+    img {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.5;
+      text-align: left;
+    }
+    a {
+      color: #fff;
+    }
+    .download {
+      text-align: left;
+      margin-top: 20px;
+    }
 
+    .download a {
+      display: inline-block;
+      background-color: #4CAF50;
+      color: #fff;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+    .download a:hover {
+      background-color: #3e8e41;
+    }
+    li {
+      text-align: left;
+    }
+  </style>
+</head>
 <body>
   <div class="container">
     <h1>FREE-XXX-O-DUS Kodi Adult Addon</h1>
