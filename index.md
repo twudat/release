@@ -2,7 +2,7 @@
   <div class="container">
     <h1>FREE-XXX-O-DUS Kodi Adult Addon</h1>
     <img src="https://via.placeholder.com/800x400" alt="Addon Image">
-    <p>Snoddenrop is a Kodi addon that allows you to stream your favorite Nroppy Vids. With Snoddenrop, you can easily search for and watch your Nroppy videos. The addon is regularly updated with new site scrapers, so you'll never run out of things to watch.</p>
+    <p>Free-XXX-O-DUS is a Kodi addon that allows you to stream your favorite Nroppy Vids. With Free-XXX-O-DUS, you can easily search for and watch your Nroppy videos. The addon is regularly updated with new site scrapers, so you'll never run out of things to watch.</p>
     <div class="download">
       <p>Download the addon from here :<a href="repository.free-xxx-o-dus.zip">repository.free-xxx-o-dus.zip</a></p>
       <p>Instructions for download:</p>
